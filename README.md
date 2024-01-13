@@ -1,20 +1,8 @@
-# gla_engage
+# GLA_Engagement
+This project was created during the GLA-HACKTHON 2020.
+This is a social media app for our college.
+Technology used in this project are as follows.
+1.	Flutter
+2.	Dart
+3.	Firebase
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# GLA-Engagement" 
-"# GLA-Engagement" 
-"# GLA-Engagement" 
-"# GLA-engg" 
